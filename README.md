@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Docker Cloud Ansible
 - 🌱 I’m currently learning ...Docker
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...you name enough : 😁
+- 📫 How to reach me ...your name enough : 😁
 
 <!---
 manishdubey07/manishdubey07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
